@@ -25,14 +25,17 @@ function showFasesTable() {
             ["<a class='custom-link' href='historias/raimiverse/spiderman3.html'>Spider-Man 3</a>", "Raimi-Verse", "Peter Parker (Spider-Man)", "Eddie Brock Jr (Venom), Flint Marko (Sandman)", "2007"],
             ["<a class='custom-link' href='historias/raimiverse/spiderman4.html'>Spider-Man 4</a>", "Raimi-Verse", "Peter Parker (Spider-Man)", "Adrian Toomes (Buitre), Alex O'Hirn (Rhino), Curt Connors (Lagarto)", "2011"],
             ["<a class='custom-link' href='historias/raimiverse/doctorstrange.html'>Doctor Strange</a>", "Raimi-Verse", "Stephen Strange (Doctor Strange)", "Baron Mordo, Dormmamu", "2013"],
-            ["<a class='custom-link' href='historias/raimiverse/spiderman5.html'>Spider-Man 5</a>", "Raimi-Verse", "Peter Parker (Spider-Man)", "Quentin Beck (Mysterio), Herman Schultz (Shocker), Max Dillon (Electro)", "2015"],
-            
+            ["<a class='custom-link' href='historias/raimiverse/ironman.html'>Iron Man</a>", "Raimi-Verse", "Tony Stark (Iron Man)", "El Mandarín", "2013"],
+            ["<a class='custom-link' href='historias/raimiverse/spiderman5.html'>Spider-Man 5</a>", "Raimi-Verse", "Peter Parker (Spider-Man)", "Quentin Beck (Mysterio), Herman Schultz (Shocker), Max Dillon (Electro)", "2014"],
+
+
 
             // Add more rows as needed
         ],
         "paging": true,
         "lengthMenu": [5, 10, 30, 50, 100],
         "pageLength": 20,
+        "order": [[4, 'asc']]
     });
 }
 
