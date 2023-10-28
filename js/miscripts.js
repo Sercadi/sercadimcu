@@ -27,7 +27,12 @@ function showFasesTable() {
             ["<a class='custom-link' href='historias/raimiverse/doctorstrange.html'>Doctor Strange</a>", "Raimi-Verse", "Stephen Strange (Doctor Strange)", "Baron Mordo, Dormmamu", "2013"],
             ["<a class='custom-link' href='historias/raimiverse/ironman.html'>Iron Man</a>", "Raimi-Verse", "Tony Stark (Iron Man)", "El Mandarín", "2013"],
             ["<a class='custom-link' href='historias/raimiverse/spiderman5.html'>Spider-Man 5</a>", "Raimi-Verse", "Peter Parker (Spider-Man)", "Quentin Beck (Mysterio), Herman Schultz (Shocker), Max Dillon (Electro)", "2014"],
-
+            ["<a class='custom-link' href='historias/raimiverse/doctorstrange2.html'>Doctor Strange 2</a>", "Raimi-Verse", "Stephen Strange (Doctor Strange),Baron Mordo, Wong", "Nightmare, Shuma-Gorath", "2015"],
+            ["<a class='custom-link' href='historias/raimiverse/spiderman6.html'>Spider-Man 6: El Capítulo Final</a>", "Raimi-Verse", "Peter Parker (Spider-Man)", "Seis Siniestros (Los 5 anteriores y Escorpión), Robbie Robertson (HobGoblin), Norman Osborn (Duende Real), Wilson Fisk (Kingpin)", "2016"],
+            ["<a class='custom-link' href='historias/raimiverse/venom.html'>Venom</a>", "Raimi-Verse", "Eddie Brock Jr (Venom)", "Peter Parker (Spider-Man), Cletus Kasady, Jack'O Lantern", "2017"],
+            ["<a class='custom-link' href='historias/raimiverse/ultimacaceriakraven.html'>La Última Cacería de Kraven </a>", "Raimi-Verse", "Peter Parker (Spider-Man)", "Sergei Kravinoff (Kraven El Cazador), Wilson Fisk (Kingpin)", "2018"],
+            ["<a class='custom-link' href='historias/raimiverse/spidermanclonesaga.html'>Spider-Man: La Saga del Clon </a>", "Raimi-Verse", "Peter Parker (Spider-Man)", "Miles Warren, Man-Wolf, Ben Reilly, Escorpión", "2019"],
+            ["<a class='custom-link' href='historias/raimiverse/spidermanmaximuncarnage.html'>Spider-Man: Maximun Carnage</a>", "Raimi-Verse", "Peter Parker (Spider-Man), Eddie Brock Jr (Venom)", "Cletus Kasady (Carnage)", "2020"],
 
 
             // Add more rows as needed
@@ -35,7 +40,8 @@ function showFasesTable() {
         "paging": true,
         "lengthMenu": [5, 10, 30, 50, 100],
         "pageLength": 20,
-        "order": [[4, 'asc']]
+        "order": [[4, 'asc']],
+        "displayStart": 0,
     });
 }
 
