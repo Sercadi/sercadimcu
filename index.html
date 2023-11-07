@@ -9,8 +9,10 @@
 
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
     <link href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" rel="stylesheet"> 
+    <link href="https://cdn.datatables.net/select/1.7.0/css/select.bootstrap.min.css" rel="stylesheet"> 
     <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
     <script type="text/javascript" href="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/select/1.7.0/js/dataTables.select.min.js"></script>
     
 </head>
 <body>
@@ -34,14 +36,7 @@
                             <li><a href="#foxverse" onclick="showSubSubmenu('fox-subsubmenu')">Fox-Verse</a></li>
                             <li><a href="#universalverse" onclick="showSubSubmenu('universal-subsubmenu')">Universal-Verse</a></li>
                             <li><a href="#newlineverse" onclick="showSubSubmenu('newline-subsubmenu')">NewLine-Verse</a></li>
-                            <li><a href="#phase1" onclick="showSubSubmenu('phase1-subsubmenu')">Fase 1</a></li>
-                            <li><a href="#phase2" onclick="showSubSubmenu('phase2-subsubmenu')">Fase 2</a></li>
-                            <li><a href="#phase3" onclick="showSubSubmenu('phase3-subsubmenu')">Fase 3</a></li>
-                            <li><a href="#phase4" onclick="showSubSubmenu('phase4-subsubmenu')">Fase 4</a></li>
-                            <li><a href="#phase5" onclick="showSubSubmenu('phase5-subsubmenu')">Fase 5</a></li>
-                            <li><a href="#phase6" onclick="showSubSubmenu('phase6-subsubmenu')">Fase 6</a></li>
-                            <li><a href="#phase7" onclick="showSubSubmenu('phase7-subsubmenu')">Fase 7</a></li>
-                        </ul>
+                            <li><a href="#scu" onclick="showSubSubmenu('scu-subsubmenu')">Universo Principal </a></li>
                     </div>
                 </li>
             </ul>
@@ -51,7 +46,7 @@
 
     <div class="submenu" id="sonyverse-subsubmenu">
 
-            <table id="fases-table" class="display">
+            <table id="raimi-table" class="display">
                 <thead>
                     <tr>
                         <th>Nombre del Proyecto</th>
@@ -68,60 +63,77 @@
     </div>
 
     <div class="submenu" id="fox-subsubmenu">
-        <ul>
-            <li><a href="#">Spider-Man 1 (2002)</a></li>
-            <li><a href="#">Submenu for Phase 1, Option 2</a></li>
-            <li><a href="#">Submenu for Phase 1, Option 3</a></li>
-        </ul>
+
+        <table id="fox-table" class="display">
+            <thead>
+                <tr>
+                    <th>Nombre del Proyecto</th>
+                    <th>Fase o Universo</th>
+                    <th>Protagonista</th>
+                    <th>Villanos</th>
+                    <th>Año de Salida</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be added here dynamically -->
+            </tbody>
+        </table>   
+
     </div>
 
     <div class="submenu" id="universal-subsubmenu">
-        <ul>
-            <li><a href="#">Spider-Man 1 (2002)</a></li>
-            <li><a href="#">Submenu for Phase 1, Option 2</a></li>
-            <li><a href="#">Submenu for Phase 1, Option 3</a></li>
-        </ul>
+        <table id="universal-table" class="display">
+            <thead>
+                <tr>
+                    <th>Nombre del Proyecto</th>
+                    <th>Fase o Universo</th>
+                    <th>Protagonista</th>
+                    <th>Villanos</th>
+                    <th>Año de Salida</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be added here dynamically -->
+            </tbody>
+        </table>   
     </div>
 
     <div class="submenu" id="newline-subsubmenu">
-        <ul>
-            <li><a href="#">Spider-Man 1 (2002)</a></li>
-            <li><a href="#">Submenu for Phase 1, Option 2</a></li>
-            <li><a href="#">Submenu for Phase 1, Option 3</a></li>
-        </ul>
-    </div>
+        <table id="newline-table" class="display">
+            <thead>
+                <tr>
+                    <th>Nombre del Proyecto</th>
+                    <th>Fase o Universo</th>
+                    <th>Protagonista</th>
+                    <th>Villanos</th>
+                    <th>Año de Salida</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be added here dynamically -->
+            </tbody>
+        </table>   
+     </div>
     
     
     
-    <div class="submenu" id="phase1-subsubmenu">
-        <ul>
-            <li><a href="#">Submenu for Phase 1, Option 1</a></li>
-            <li><a href="#">Submenu for Phase 1, Option 2</a></li>
-            <li><a href="#">Submenu for Phase 1, Option 3</a></li>
-        </ul>
-    </div>
+    <div class="submenu" id="scu-subsubmenu">
 
-    <div class="submenu" id="phase2-subsubmenu">
-        <ul>
-            <li><a href="#">Submenu for Phase 2, Option 1</a></li>
-            <li><a href="#">Submenu for Phase 2, Option 2</a></li>
-        </ul>
-    </div>
-
-    <div class="submenu" id="phase3-subsubmenu">
-        <ul>
-            <li><a href="#">Submenu for Phase 3, Option 1</a></li>
-        </ul>
-    </div>
-
-    <div class="submenu" id="phase4-subsubmenu">
-        <ul>
-            <li><a href="#">Submenu for Phase 4, Option 1</a></li>
-            <li><a href="#">Submenu for Phase 4, Option 2</a></li>
-            <li><a href="#">Submenu for Phase 4, Option 3</a></li>
-            <li><a href="#">Submenu for Phase 4, Option 4</a></li>
-        </ul>
-    </div>
+        <table id="scu-table" class="display">
+            <thead>
+                <tr>
+                    <th>Nombre del Proyecto</th>
+                    <th>Fase o Universo</th>
+                    <th>Protagonista</th>
+                    <th>Villanos</th>
+                    <th>Año de Salida</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be added here dynamically -->
+            </tbody>
+        </table>   
+    </div>  
 
     <div class="submenu" id="characters-submenu">
         <ul>
