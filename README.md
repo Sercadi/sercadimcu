@@ -1,8 +1,6 @@
 # Sercadi.github.io
 Mi propio Universo Cinematográfico de Marvel en formato HTML y JS.
 
-https://Sercadi.github.io
-
 Fases de Desarrollo:
 
 - Adaptar el Index.html a un formato movil: Hecho
