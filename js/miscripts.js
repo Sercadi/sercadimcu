@@ -262,21 +262,54 @@ function showPhase1Table() {
         "data": [
             ["<a class='custom-link' href='historias/scufase1/ironman.html'>Iron Man </a>", "SCU Fase 1 - Película", "Tony Stark (Iron Man)", "Obadiah Stane, Los 10 Anillos (Lider Wong-Chu)", "2008"],
             ["<a class='custom-link' href='historias/scufase1/theincrediblehulk.html'> The Incredible Hulk </a>", "SCU Fase 1 - Película", "Bruce Banner (Hulk)", "General Thunderbolt Ross, Emil Blonsky (Abominación)", "2008"],
-            ["<a class='custom-link' href='historias/scufase1/natashaorigins.html'> Los Orígenes de Natasha </a>", "SCU Fase 1 - Película Corta", "Natasha Romanoff (Black Widow)", "Clint Barton (Hawkeye), Bengal", "2009"],
+            ["<a class='custom-link' href='historias/scufase1/natashaorigins.html'> Orígenes de Natasha </a>", "SCU Fase 1 - Película Corta", "Natasha Romanoff (Black Widow)", "Clint Barton (Hawkeye), Bengal", "2009"],
             ["<a class='custom-link' href='historias/scufase1/ironman2.html'> Iron Man 2 </a>", "SCU Fase 1 - Película", "Tony Stark (Iron Man)", "Ivan Vanko (Whiplash), Justin Hammer", "2010"],
             ["<a class='custom-link' href='historias/scufase1/thor.html'> Thor Dios del Trueno </a>", "SCU Fase 1 - Película", "Thor Odinson", "El Guardían, Laufey, Loki", "2009"],
             ["<a class='custom-link' href='historias/scufase1/capitanamerica.html'> Capitan América El Primer Vengador </a>", "SCU Fase 1 - Película", "Steve Rogers (Capitán América)", "Johann Schmidt (Red Skull), Arnim Zola, Adolf Hitler", "2011"],
             ["<a class='custom-link' href='historias/scufase1/vibraniumforce.html'> Howard Stark - Vibranium Force </a>", "SCU Fase 1 - Serie", "Howard Stark", "Heinrich Zemo", "2011"],
             ["<a class='custom-link' href='historias/scufase1/losvengadores.html'> Los Vengadores </a>", "SCU Fase 1 - Película", "Los Vengadores", "Loki, Chitauri, Thanos", "2012"],
             ["<a class='custom-link' href='historias/scufase1/investigacioneshankpym.html'> Investigaciones Hank Pym  </a>", "SCU Fase 1 - Serie", "Hank Pym (Ant-Man)", "People's Defense Force, Doctor Nemesis", "2012"],
-            ["<a class='custom-link' href='historias/scufase1/ancianahechicera.html'> Anciana Hechicera Suprema 1ºTemporada </a>", "SCU Fase 1 - Serie", "La Anciana, Kaecilius, Baron Mordo", "Dormmamu", "2012"],
+            ["<a class='custom-link' href='historias/scufase1/ancianahechicera.html'> Anciana Hechicera Suprema 1ºTemporada </a>", "SCU Fase 1 - Serie", "La Anciana, Baron Mordo", "Kaecilius", "2012"],
             ///////////////////////////////////////////////////
             ["<a class='custom-link' href='historias/scufase2/ironman3.html'> Iron Man 3 </a>", "SCU Fase 2 - Película", "Tony Stark (Iron Man)", "Aldrich Killian, El Mandarin (Wenwu en mi versión, Escapa al final)", "2013"],
             ["<a class='custom-link' href='historias/scufase2/mandarin.html'> El Mandarín y la Búsqueda de los 10 Anillos </a>", "SCU Fase 2 - Serie", "Wanwu (Mandarin)", "Ho Lee, Ahau, Fing Fan Foom", "2013"],
-            ["<a class='custom-link' href='historias/scufase2/agentsofshield1.html'> Agents of Shield 1ºTemporada </a>", "SCU Fase 2 - Serie", "Agente Coulson", "Ver Proyecto", "2013"],
+            ["<a class='custom-link' href='historias/scufase2/agentsofshield1.html'> Agents of SHIELD 1ºTemporada </a>", "SCU Fase 2 - Serie", "Agente Coulson", "Ver Proyecto", "2013"],
             ["<a class='custom-link' href='historias/scufase2/thor2.html'> Thor El Mundo Oscuro </a>", "SCU Fase 2 - Pelicula", "Thor Odinson", "Malekith y los Elfos Oscuros", "2013"],
             ["<a class='custom-link' href='historias/scufase2/lokiaventuras.html'> Las Aventuras del Poderoso Loki </a>", "SCU Fase 2 - Serie", "Loki Laufeyson", "Bragmir", "2013"],
             ["<a class='custom-link' href='historias/scufase2/capitannamerica2.html'> Capitan America El Soldado del Invierno </a>", "SCU Fase 2 - Película", "Steve Rogers (Capitán América)", "Bucky Burnes (Soldado de Invierno), Crossbones, Alexander Pierce", "2013"],
+            ["<a class='custom-link' href='historias/scufase2/agentsofshield2.html'> Agents of SHIELD 2ºTemporada </a>", "SCU Fase 2 - Serie", "Agente Coulson", "Ver Proyecto", "2014"],
+            ["<a class='custom-link' href='historias/scufase2/buckyorigins.html'> Origenes de Bucky </a>", "SCU Fase 2 - Pelicula Corta", "Bucky Barnes (Soldado de Invierno)", "Baron Von Strucker, Alexander Lukin", "2014"],
+            ["<a class='custom-link' href='historias/scufase2/galaxyguardians.html'> Guardianes de la Galaxia Vol 1 </a>", "SCU Fase 2 - Película", "Guardianes de la Galaxia", "Ronan el Acusador, Nebula", "2014"],
+            ["<a class='custom-link' href='historias/scufase2/thanosysushijos.html'> Thanos y sus Hijos </a>", "SCU Fase 2 - Especial", "Thanos El Titán Loco", "Mentor, Star-Fox ", "2014"],
+            ["<a class='custom-link' href='historias/scufase2/draxfamilia.html'> Drax y su Familia </a>", "SCU Fase 2 - Especial", "Drax el Destructor", "Thanos el Titán Loco, Orden Oscura", "2014"],
+            ["<a class='custom-link' href='historias/scufase2/vengadoresultron.html'> Los Vengadores La Era de Ultrón </a>", "SCU Fase 2 - Película", "Los Vengadores", "Ultrón, Baron Von Strucker", "2014"],
+            ["<a class='custom-link' href='historias/scufase2/agentsofshield3.html'> Agents of SHIELD 3ºTemporada </a>", "SCU Fase 2 - Película", "Agente Coulson", "Ver Proyecto", "2015"],
+            ["<a class='custom-link' href='historias/scufase2/wanda&quicksilver.html'> Wanda & Quicksilver </a>", "SCU Fase 2 - Serie", "Wanda Maximoff, Pietro Maximoff", "Familia Maximoff, Baron Von Strucker", "2015"],
+            ["<a class='custom-link' href='historias/scufase2/agentecarter1.html'> Agente Carter 1ºTemporada </a>", "SCU Fase 2 - Serie", "Peggy Carter", "Ver Proyecto", "2015"],
+            ["<a class='custom-link' href='historias/scufase2/daredevil1.html'> Daredevil Abogado Callejero 1ºTemporada </a>", "SCU Fase 2 - Serie", "Matt Murdock (Daredevil)", "Ver Proyecto", "2015"],
+            ["<a class='custom-link' href='historias/scufase2/jessicajones1.html'> Jessica Jones 1ºTemporada </a>", "SCU Fase 2 - Serie", "Jessica Jones", "Ver Proyecto", "2015"],
+            ["<a class='custom-link' href='historias/scufase2/antman.html'> Ant-Man </a>", "SCU Fase 2 - Película", "Scott Lang (Ant-Man)", "Darren Cross (YellowJacket)", "2015"],
+            ["<a class='custom-link' href='historias/scufase1/ancianahechicera2.html'> Anciana Hechicera Suprema 2ºTemporada </a>", "SCU Fase 2 - Serie", "La Anciana, Baron Mordo", "Dormmamu, Kaecilius", "2015"],
+            ///////////////////////////////////////////////////
+            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+
+
+
+
+
+
+
 
 
 
