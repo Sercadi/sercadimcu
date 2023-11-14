@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marvel Cinematic Universe</title>
+    <link rel="stylesheet" href="css/estilo.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <link rel="icon" href="icono.ico">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
+    <link href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" rel="stylesheet"> 
+    <link href="https://cdn.datatables.net/select/1.7.0/css/select.bootstrap.min.css" rel="stylesheet"> 
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" href="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/select/1.7.0/js/dataTables.select.min.js"></script>
+    
+</head>
+<body>
+    <br>
+     NOTA: Dar Click en el primer campo de cada tabla para acceder a los contenidos. 
+
+
+    <div id="header">
+        <img id="logo" src="Sercadimcu.png" alt="Logo">
+        <div id="menu">
+            <ul>
+
+                <li><a href="#characters" onclick="showSubmenu('characters-submenu')">Personajes</a></li>
+                <li><a href="#objects" onclick="showSubmenu('objects-submenu')">Objetos</a></li>
+                <li><a href="#stages" onclick="showSubmenu('stages-submenu')">Escenarios</a></li>
+                <li><a href="#conceptos" onclick="showSubmenu('conceptos-submenu')" id="conceptos">Conceptos</a></li>
+                <li>
+
+
+
+                    <a href="#phases" onclick="showSubmenu('phases-submenu')">Fases</a>
+                    <div class="submenu" id="phases-submenu">
+                        <ul>
+                            <li><a href="#sonyverse" onclick="showSubSubmenu('sonyverse-subsubmenu')">Sony-Verse</a></li>
+                            <li><a href="#foxverse" onclick="showSubSubmenu('fox-subsubmenu')">Fox-Verse</a></li>
+                            <li><a href="#universalverse" onclick="showSubSubmenu('universal-subsubmenu')">Universal-Verse</a></li>
+                            <li><a href="#newlineverse" onclick="showSubSubmenu('newline-subsubmenu')">NewLine-Verse</a></li>
+                            <li><a href="#scu" onclick="showSubSubmenu('scu-subsubmenu')">Universo Principal </a></li>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="submenu" id="conceptos-submenu">
+
+        <p>
+         <b>  Dimensiones: </b>  Las dimensiones son simplemente regiones de espacio cerrado que existen dentro de universos que generalmente tienen leyes y físicas diferentes. Por ejemplo, la dimensión oscura y la dimensión espejo. Estos lugares existen dentro del mismo espacio habitable que la realidad normal, pero son simplemente inalcanzables e imperceptibles sin el uso de anillos de honda o cualquier otro tipo de portal.
+
+        </p>
+
+        <p>
+          <b>  Reinos: </b> Los reinos son planetas o planos de existencia especiales a los que se puede acceder fácilmente en el espacio o a través de portales (por ejemplo, Asgard estaba en un disco flotante en el espacio). Yggdrasil parece ser una conexión mágica entre los 9 reinos. Otro reino es el reino de Ta lo, que también parece estar ubicado en su propia área, pero es un poco complicado de entender ya que también se lo conoce como dimensión y universo indistintamente. El reino de las sombras también es un lugar accesible.
+
+        </p>
+
+        <p>
+
+         <b>   Líneas Temporales: </b> Son las ramas que se separan de la Línea principal que separa a cada Universo del otro. Normalmente estas líneas no se deberían de separar por lo que siempre es una única línea, la sagrada a la que llaman.
+            Estas líneas temporales desencadenan las lineas alternativas que cuentan eventos diferentes a los que sucedieron en la sagrada línea.
+
+        </p>
+
+        <p>
+
+          <b> Linea Sagrada del Tiempo: </b> Cada universo de base es una línea completa de principio a fin, en esta se desarrollan todos los eventos principales de la línea ya que está escrita por un misterioso ser en todos los universos.
+            Si se rompe, se separa en ramas distintas.
+
+        </p>
+
+        <p>
+
+          <b> Universos: </b>  Es un conjunto enorme de ubicaciones, lugares y de personajes diferentes y de líneas temporales en caso que las haya creando un pequeño Multiverso dentro de un Universo, los universos se separan por las diferentes líneas sagradas del tiempo, por lo que cada uno tiene su propia línea y su propia física.
+            Normalmente no se puede viajar de un universo a otro ya que están separados pero si de varios universos se generan líneas temporales, es posible que todas se unan permitiendo saltar no solo entre líneas, sino entre universos,
+            hay personajes que pueden romper este límite sin necesidad de que se junten.
+
+        </p>
+
+        <p>
+
+          <b> Evento Nexus: </b>  Es el cambio o evento que se provoca en la Sagrada Línea del Tiempo de cada universo para que se genere una línea temporal, es decir que una rama se separe. La TVA ubicada antes del principio de la sagrada línea evita que esto suceda pero hay excepciones... A los personajes que causan eventos Nexus se les llama Variantes.
+
+
+        </p>
+        
+        <p>
+
+           <b> Evento Canon: </b> Son eventos que siempre tienen que ocurrir en cualquiera de las líneas de un universo, si no llegasen a ocurrir el destino del universo o las personas en el podrían cambiar (ejemplo la muerte del Tío Ben es lo que le hizo ser a Peter Parker Spider-Man en la mayoría de Universos, si esto no ocurre bien generará igual una línea temporal y la TVA irá a detener la situación)
+
+
+        </p>
+        
+        <p>
+
+          <b>  Incursiones: </b> Consiste en la destrucción de uno o ambos universos que hayan colisionado por la rotura de sus leyes de la física a la hora de hacer cambios en la Línea Sagrada Temporal de ambos, o cuando se produzcan varios Eventos Nexus simulataneos.  
+
+        </p>
+
+        <p>
+
+          <b> Viaje en el Tiempo: </b>  Es un viaje hacia atras o hacia alante dentro de la Sagrada Linea Temporal o en cualquiera de las líneas ramificadas de la misma, en este viaje pueden ocurrir ciertos acontecimientos que ramifique dentro de las ramificaciones o cree ramificaciones a partir de la Sagrada, normalmente esto ocurre con Eventos Nexus.
+            
+        </p>
+
+
+        <p>
+
+          <b>  Antes y Final del Tiempo: </b> Son 3 conceptos diferentes, antes y final del tiempo, estan aquellas zonas en las que el tiempo funciona distinto o directamente no funciona porque no está en la Sagrada Línea Temporal, esto incluye la TVA de la línea Sagrada Temporal antes del tiempo y al final el Castillo de la entidad que dirige y ha construido la sagrada línea.
+
+        </p>
+
+    </div>
+
+
+    <div class="submenu" id="sonyverse-subsubmenu">
+
+            <table id="raimi-table" class="display">
+                <thead>
+                    <tr>
+                        <th>Nombre del Proyecto</th>
+                        <th>Fase o Universo</th>
+                        <th>Protagonista</th>
+                        <th>Villanos</th>
+                        <th>Año de Salida</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Data will be added here dynamically -->
+                </tbody>
+            </table>
+    </div>
+
+    <div class="submenu" id="fox-subsubmenu">
+
+        <table id="fox-table" class="display">
+            <thead>
+                <tr>
+                    <th>Nombre del Proyecto</th>
+                    <th>Fase o Universo</th>
+                    <th>Protagonista</th>
+                    <th>Villanos</th>
+                    <th>Año de Salida</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be added here dynamically -->
+            </tbody>
+        </table>   
+
+    </div>
+
+    <div class="submenu" id="universal-subsubmenu">
+        <table id="universal-table" class="display">
+            <thead>
+                <tr>
+                    <th>Nombre del Proyecto</th>
+                    <th>Fase o Universo</th>
+                    <th>Protagonista</th>
+                    <th>Villanos</th>
+                    <th>Año de Salida</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be added here dynamically -->
+            </tbody>
+        </table>   
+    </div>
+
+    <div class="submenu" id="newline-subsubmenu">
+        <table id="newline-table" class="display">
+            <thead>
+                <tr>
+                    <th>Nombre del Proyecto</th>
+                    <th>Fase o Universo</th>
+                    <th>Protagonista</th>
+                    <th>Villanos</th>
+                    <th>Año de Salida</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be added here dynamically -->
+            </tbody>
+        </table>   
+     </div>
+    
+    
+    
+    <div class="submenu" id="scu-subsubmenu">
+
+        <table id="scu-table" class="display">
+            <thead>
+                <tr>
+                    <th>Nombre del Proyecto</th>
+                    <th>Fase o Universo</th>
+                    <th>Protagonista</th>
+                    <th>Villanos</th>
+                    <th>Año de Salida</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be added here dynamically -->
+            </tbody>
+        </table>   
+    </div>  
+
+    <div class="submenu" id="characters-submenu">
+        <ul>
+            <li><a href="#">Characters Submenu, Option 1</a></li>
+            <li><a href="#">Characters Submenu, Option 2</a></li>
+        </ul>
+    </div>
+
+    <div class="submenu" id="objects-submenu">
+        <ul>
+            <li><a href="#">Objects Submenu, Option 1</a></li>
+            <li><a href="#">Objects Submenu, Option 2</a></li>
+        </ul>
+    </div>
+
+
+<!-- JavaScript Codigo-->
+
+<script type="text/javascript" src="js/miscripts.js"></script>
+
+
+
+</body>
+</html>

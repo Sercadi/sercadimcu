@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+#header {
+    text-align: center;
+    padding: 20px;
+}
+
+#logo {
+    max-width: 100%; /* Ensure the logo is responsive */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#menu {
+    text-align: center;
+}
+
+#menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#menu ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+#menu ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+#menu ul li a:hover {
+    color: #ffcc00; /* Yellow color on hover */
+}
+
+.submenu {
+    display: none;
+}
+
+a.proyectos {
+    text-decoration: none;
+    color: white;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    #menu ul li {
+        display: block; /* Convert menu items to block for small screens */
+        margin: 10px 0; /* Add space between items */
+    }
+}
+
+.custom-link {
+    text-decoration: none; /* Remove underline */
+    color: white; /* Set text color to white */
+}
