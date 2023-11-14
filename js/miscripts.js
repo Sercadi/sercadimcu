@@ -269,7 +269,7 @@ function showPhase1Table() {
             ["<a class='custom-link' href='historias/scufase1/vibraniumforce.html'> Howard Stark - Vibranium Force </a>", "SCU Fase 1 - Serie", "Howard Stark", "Heinrich Zemo", "2011"],
             ["<a class='custom-link' href='historias/scufase1/losvengadores.html'> Los Vengadores </a>", "SCU Fase 1 - Película", "Los Vengadores", "Loki, Chitauri, Thanos", "2012"],
             ["<a class='custom-link' href='historias/scufase1/investigacioneshankpym.html'> Investigaciones Hank Pym  </a>", "SCU Fase 1 - Serie", "Hank Pym (Ant-Man)", "People's Defense Force, Doctor Nemesis", "2012"],
-            ["<a class='custom-link' href='historias/scufase1/ancianahechicera.html'> Anciana Hechicera Suprema 1ºTemporada </a>", "SCU Fase 1 - Serie", "La Anciana, Baron Mordo", "Kaecilius", "2012"],
+            ["<a class='custom-link' href='historias/scufase1/ancianahechicera.html'> Anciana Hechicera Suprema 1ºTemporada </a>", "SCU Fase 1 - Serie", "La Anciana, Baron Mordo", "Dormmamu, Kaecilius", "2012"],
             ///////////////////////////////////////////////////
             ["<a class='custom-link' href='historias/scufase2/ironman3.html'> Iron Man 3 </a>", "SCU Fase 2 - Película", "Tony Stark (Iron Man)", "Aldrich Killian, El Mandarin (Wenwu en mi versión, Escapa al final)", "2013"],
             ["<a class='custom-link' href='historias/scufase2/mandarin.html'> El Mandarín y la Búsqueda de los 10 Anillos </a>", "SCU Fase 2 - Serie", "Wanwu (Mandarin)", "Ho Lee, Ahau, Fing Fan Foom", "2013"],
@@ -289,9 +289,11 @@ function showPhase1Table() {
             ["<a class='custom-link' href='historias/scufase2/daredevil1.html'> Daredevil Abogado Callejero 1ºTemporada </a>", "SCU Fase 2 - Serie", "Matt Murdock (Daredevil)", "Ver Proyecto", "2015"],
             ["<a class='custom-link' href='historias/scufase2/jessicajones1.html'> Jessica Jones 1ºTemporada </a>", "SCU Fase 2 - Serie", "Jessica Jones", "Ver Proyecto", "2015"],
             ["<a class='custom-link' href='historias/scufase2/antman.html'> Ant-Man </a>", "SCU Fase 2 - Película", "Scott Lang (Ant-Man)", "Darren Cross (YellowJacket)", "2015"],
-            ["<a class='custom-link' href='historias/scufase1/ancianahechicera2.html'> Anciana Hechicera Suprema 2ºTemporada </a>", "SCU Fase 2 - Serie", "La Anciana, Baron Mordo", "Dormmamu, Kaecilius", "2015"],
+            ["<a class='custom-link' href='historias/scufase1/ancianahechicera2.html'> Anciana Hechicera Suprema 2ºTemporada </a>", "SCU Fase 2 - Serie", "La Anciana, Baron Mordo", "Mister Jip, Zom", "2015"],
+            ["<a class='custom-link' href='historias/scufase1/proyectoross.html'> Proyecto R.O.S.S </a>", "SCU Fase 2 - Serie", "Subsecretario Thaddeus Ross", "Hombre Absorvente,Vengadores Huídos", "2015"],
+
             ///////////////////////////////////////////////////
-            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
+            ["<a class='custom-link' href='historias/scufase3/capitanamerica3.html'> Capitán América Civil War </a>", "SCU Fase 3 - Película", "Vengadores Desunidos", "Baron Helmut Zemo, Crossbones", "2016"],
             ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
             ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
             ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2015"],
