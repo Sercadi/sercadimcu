@@ -315,9 +315,7 @@ function showPhase1Table() {
             ["<a class='custom-link' href='historias/scufase3/blackpanther.html'> Black Panther </a>", "SCU Fase 3 - Película", "T'Challa (Black Panther)", "M'Baku, N'Jadaka (Erik Killmonger), Ulysses Klaw", "2018"],
             ["<a class='custom-link' href='historias/scufase3/vibraniumwakanda.html'> Vibranium Wakanda </a>", "SCU Fase 3 - Especial", "T'Chaka (Primer Black Panther)", "Tetu", "2018"],
             ["<a class='custom-link' href='historias/scufase3/runaways2.html'> Runaways 2ºTemporada </a>", "SCU Fase 3 - Serie", "Runaways", "El Orgullo", "2018"],
-
-
-
+            ["<a class='custom-link' href='historias/scufase3/punisher2.html'>Punisher 2°Temporada </a>", "SCU Fase 3 - Serie", "Frank Castle (Punisher)", "Jigsaw", "2018"],
 
 
 
