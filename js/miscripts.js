@@ -309,7 +309,13 @@ function showPhase1Table() {
             ["<a class='custom-link' href='historias/scufase3/ironfist1.html'> Iron Fist 1ºTemporada </a>", "SCU Fase 3 - Serie", "Danny Rand (Iron Fist)", "Ver Proyecto", "2017"],
             ["<a class='custom-link' href='historias/scufase3/thor3.html'> Thor Ragnarok </a>", "SCU Fase 3 - Película", "Thor Odinson, Loki Laufeyson, Valkiria", "Hela, Surtur", "2017"],
             ["<a class='custom-link' href='historias/scufase3/odingodfather.html'> Odin El Padre de Todos </a>", "SCU Fase 3 - Serie", "Odin", "Surtur, Hela, Laufey, Ymir, Zeus", "2017"],
-            ["<a class='custom-link' href='historias/scufase3/.html'> </a>", "SCU Fase 3 - Serie", "", "", "2017"],
+            ["<a class='custom-link' href='historias/scufase3/runaways1.html'> Runaways 1ºTemporada </a>", "SCU Fase 3 - Serie", "Runaways", "El Orgullo", "2017"],
+            ["<a class='custom-link' href='historias/scufase3/punisher1.html'> Punisher 1ºTemporada </a>", "SCU Fase 3 - Serie", "Frank Castle (Punisher)", "Jigsaw", "2017"],
+            ["<a class='custom-link' href='historias/scufase3/cloack&dagger1.html'> Cloack & Dagger 1ºTemporada </a>", "SCU Fase 3 - Serie", "Cloack, Dagger", "Grey", "2017"],
+            ["<a class='custom-link' href='historias/scufase3/blackpanther.html'> Black Panther </a>", "SCU Fase 3 - Película", "T'Challa (Black Panther)", "M'Baku, N'Jadaka (Erik Killmonger), Ulysses Klaw", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/vibraniumwakanda.html'> Vibranium Wakanda </a>", "SCU Fase 3 - Especial", "T'Chaka (Primer Black Panther)", "Tetu", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/runaways2.html'> Runaways 2ºTemporada </a>", "SCU Fase 3 - Serie", "Runaways", "El Orgullo", "2018"],
+
 
 
 
