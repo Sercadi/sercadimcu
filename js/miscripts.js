@@ -334,6 +334,10 @@ function showPhase1Table() {
             ["<a class='custom-link' href='historias/scufase3/spidermanfarfromhome.html'> Spider-Man Far From Home </a>", "SCU Fase 3 - Película", "Peter Parker (Spider-Man)", "Quentin Beck (Mysterio), Elementales", "2023"],
             ["<a class='custom-link' href='historias/scufase3/spidermancollegeyears.html'> Spider-Man College Years </a>", "SCU Fase 3 - Serie", "Peter Parker (Spider-Man)", "Múltiples Villanos", "2023"],
             ["<a class='custom-link' href='historias/scufase3/thorchildhood.html'> Thor Childhood Remembered </a>", "SCU Fase 3 - Especial", "Thor Odinson", "Laufey", "2023"],
+            ///////////////////////////////////////////////////
+            ["<a class='custom-link' href='historias/scufase4/sokovia.html'> Acuerdos de Sokovia </a>", "SCU Fase 4 - Especial", "Thaddeus Ross, Allegra D'Fountain", "Presidente EE.UU", "2023"],
+        
+
 
 
 
