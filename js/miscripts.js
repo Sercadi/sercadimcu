@@ -332,7 +332,8 @@ function showPhase1Table() {
             ["<a class='custom-link' href='historias/scufase3/spidermanfarfromhome.html'> Spider-Man Far From Home </a>", "SCU Fase 3 - Película", "Peter Parker (Spider-Man)", "Quentin Beck (Mysterio), Elementales", "2023"],
             ["<a class='custom-link' href='historias/scufase3/buffetenelson2.html'> Buffete Nelson 2ºTemporada </a>", "SCU Fase 3 - Serie", "Foggy Nelson", "Ver Proyecto", "2023"],
             ["<a class='custom-link' href='historias/scufase3/spidermanfarfromhome.html'> Spider-Man Far From Home </a>", "SCU Fase 3 - Película", "Peter Parker (Spider-Man)", "Quentin Beck (Mysterio), Elementales", "2023"],
-            ["<a class='custom-link' href='historias/scufase3/spidermancollegeyears.html'> Spider-Man College Years </a>", "SCU Fase 3 - Serie", "Peter Parker (Spider-Man)", "Múltiples Villanos", "2014-2015"],
+            ["<a class='custom-link' href='historias/scufase3/spidermancollegeyears.html'> Spider-Man College Years </a>", "SCU Fase 3 - Serie", "Peter Parker (Spider-Man)", "Múltiples Villanos", "2023"],
+            ["<a class='custom-link' href='historias/scufase3/thorchildhood.html'> Thor Childhood Remembered </a>", "SCU Fase 3 - Especial", "Thor Odinson", "Laufey", "2023"],
 
 
 
@@ -363,7 +364,7 @@ function showPhase1Table() {
         "paging": true,
         "lengthMenu": [5, 10, 30, 50, 100],
         "pageLength": 20,
-        "order": [[2, 'asc']],
+        "order": [[4, 'asc']],
         "displayStart": 0,
         "select": true,
         "columnDefs": [
