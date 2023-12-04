@@ -282,16 +282,15 @@ function showPhase1Table() {
             ["<a class='custom-link' href='historias/scufase2/galaxyguardians.html'> Guardianes de la Galaxia Vol 1 </a>", "SCU Fase 2 - Película", "Guardianes de la Galaxia", "Ronan el Acusador, Nebula", "2014"],
             ["<a class='custom-link' href='historias/scufase2/thanosysushijos.html'> Thanos y sus Hijos </a>", "SCU Fase 2 - Especial", "Thanos El Titán Loco", "Mentor, Star-Fox ", "2014"],
             ["<a class='custom-link' href='historias/scufase2/draxfamilia.html'> Drax y su Familia </a>", "SCU Fase 2 - Especial", "Drax el Destructor", "Thanos el Titán Loco, Orden Oscura", "2014"],
-            ["<a class='custom-link' href='historias/scufase2/vengadoresultron.html'> Los Vengadores La Era de Ultrón </a>", "SCU Fase 2 - Película", "Los Vengadores", "Ultrón, Baron Von Strucker", "2014"],
+            ["<a class='custom-link' href='historias/scufase2/vengadoresultron.html'> Los Vengadores: La Era de Ultrón </a>", "SCU Fase 2 - Película", "Los Vengadores", "Ultrón, Baron Von Strucker", "2014"],
             ["<a class='custom-link' href='historias/scufase2/agentsofshield3.html'> Agents of SHIELD 3ºTemporada </a>", "SCU Fase 2 - Película", "Agente Coulson", "Ver Proyecto", "2015"],
             ["<a class='custom-link' href='historias/scufase2/wanda&quicksilver.html'> Wanda & Quicksilver </a>", "SCU Fase 2 - Serie", "Wanda Maximoff, Pietro Maximoff", "Familia Maximoff, Baron Von Strucker", "2015"],
             ["<a class='custom-link' href='historias/scufase2/agentecarter1.html'> Agente Carter 1ºTemporada </a>", "SCU Fase 2 - Serie", "Peggy Carter", "Ver Proyecto", "2015"],
             ["<a class='custom-link' href='historias/scufase2/daredevil1.html'> Daredevil Abogado Callejero 1ºTemporada </a>", "SCU Fase 2 - Serie", "Matt Murdock (Daredevil)", "Ver Proyecto", "2015"],
             ["<a class='custom-link' href='historias/scufase2/jessicajones1.html'> Jessica Jones 1ºTemporada </a>", "SCU Fase 2 - Serie", "Jessica Jones", "Ver Proyecto", "2015"],
             ["<a class='custom-link' href='historias/scufase2/antman.html'> Ant-Man </a>", "SCU Fase 2 - Película", "Scott Lang (Ant-Man)", "Darren Cross (YellowJacket)", "2015"],
-            ["<a class='custom-link' href='historias/scufase1/ancianahechicera2.html'> Anciana Hechicera Suprema 2ºTemporada </a>", "SCU Fase 2 - Serie", "La Anciana, Baron Mordo", "Mister Jip, Zom", "2015"],
-            ["<a class='custom-link' href='historias/scufase1/proyectoross.html'> Proyecto R.O.S.S </a>", "SCU Fase 2 - Serie", "Subsecretario Thaddeus Ross", "Hombre Absorvente, Vengadores Huídos", "2015"],
-
+            ["<a class='custom-link' href='historias/scufase2/ancianahechicera2.html'> Anciana Hechicera Suprema 2ºTemporada </a>", "SCU Fase 2 - Serie", "La Anciana, Baron Mordo", "Mister Jip, Zom", "2015"],
+            ["<a class='custom-link' href='historias/scufase2/proyectoross.html'> Proyecto R.O.S.S </a>", "SCU Fase 2 - Serie", "Subsecretario Thaddeus Ross", "Hombre Absorvente, Vengadores Huídos", "2015"],
             ///////////////////////////////////////////////////
             ["<a class='custom-link' href='historias/scufase3/capitanamerica3.html'> Capitán América Civil War </a>", "SCU Fase 3 - Película", "Vengadores Desunidos", "Baron Helmut Zemo, Crossbones", "2016"],
             ["<a class='custom-link' href='historias/scufase3/agentecarter2.html'> Agente Carter 2ºTemporada </a>", "SCU Fase 3 - Serie", "Peggy Carter", "Ver Proyecto", "2016"],
@@ -315,7 +314,38 @@ function showPhase1Table() {
             ["<a class='custom-link' href='historias/scufase3/blackpanther.html'> Black Panther </a>", "SCU Fase 3 - Película", "T'Challa (Black Panther)", "M'Baku, N'Jadaka (Erik Killmonger), Ulysses Klaw", "2018"],
             ["<a class='custom-link' href='historias/scufase3/vibraniumwakanda.html'> Vibranium Wakanda </a>", "SCU Fase 3 - Especial", "T'Chaka (Primer Black Panther)", "Tetu", "2018"],
             ["<a class='custom-link' href='historias/scufase3/runaways2.html'> Runaways 2ºTemporada </a>", "SCU Fase 3 - Serie", "Runaways", "El Orgullo", "2018"],
-            ["<a class='custom-link' href='historias/scufase3/punisher2.html'>Punisher 2°Temporada </a>", "SCU Fase 3 - Serie", "Frank Castle (Punisher)", "Jigsaw", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/punisher2.html'> Punisher 2°Temporada </a>", "SCU Fase 3 - Serie", "Frank Castle (Punisher)", "Jigsaw", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/daredevil3.html'> Daredevil 3°Temporada </a>", "SCU Fase 3 - Serie", "Matt Murdock (Daredevil)", "Wilson Fisk (Kingpin)", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/jessicajones2.html'> Jessica Jones 2°Temporada </a>", "SCU Fase 3 - Serie", "Jessica Jones", "Ver Proyecto", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/cloack&dagger2.html'> Cloack & Dagger 2°Temporada </a>", "SCU Fase 3 - Serie", "Cloack, Dagger", "Ver Proyecto", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/helstrom.html'> Helstrom </a>", "SCU Fase 3 - Especial", "Helstrom", "Fraxix, Gabriel Rosetti", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/lukecage2.html'> Luke Cage 2ºTemporada </a>", "SCU Fase 3 - Serie", "Luke Cage", "Ver Proyecto", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/ironfist2.html'> Iron Fist 2ºTemporada </a>", "SCU Fase 3 - Serie", "Iron Fist", "", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/defenders.html'> Los Defensores </a>", "SCU Fase 3 - Serie", "Los Defensores de NY", "Alexandra Reid", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/inhumans.html'> Los Inhumanos </a>", "SCU Fase 3 - Película", "Los Inhumanos", "Maximus The Mad", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/runaways3.html'> Los Runaways 3ºTemporada </a>", "SCU Fase 3 - Serie", "Runaways", "Ver Proyecto", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/vengadores3.html'> Los Vengadores: Infinity War </a>", "SCU Fase 3 - Película", "Los Vengadores, Guardianes de la Galaxia, Runaways", "Thanos, Orden Negra", "2018"],
+            ["<a class='custom-link' href='historias/scufase3/kingpinmassacre.html'> La Masacre de Kingpin </a>", "SCU Fase 3 - Serie", "Wilson Fisk (Kingpin)", "Ben Urich, Big Jesus, Echo", "2022"],
+            ["<a class='custom-link' href='historias/scufase3/antman2.html'> Ant Man y La Avispa </a>", "SCU Fase 3 - Película", "Scott Lang (Ant-Man), Hope Van Dyne (Avispa)", "Radioactive Man, G.H.O.S.T", "2019"],
+            ["<a class='custom-link' href='historias/scufase3/agentsofshield5.html'> Marvel's Agentes de S.H.I.E.L.D 5ºTemporada </a>", "SCU Fase 3 - Serie", "Ver Proyecto", "Ver Proyecto", "2021"],
+            ["<a class='custom-link' href='historias/scufase3/vengadores4.html'> Los Vengadores: Endgame </a>", "SCU Fase 3 - Película", "Los Vengadores", "Thanos (Año 2023), Thanos y su Ejército (Año 2014)", "2023"],
+            ["<a class='custom-link' href='historias/scufase3/spidermanfarfromhome.html'> Spider-Man Far From Home </a>", "SCU Fase 3 - Película", "Peter Parker (Spider-Man)", "Quentin Beck (Mysterio), Elementales", "2023"],
+            ["<a class='custom-link' href='historias/scufase3/buffetenelson2.html'> Buffete Nelson 2ºTemporada </a>", "SCU Fase 3 - Serie", "Foggy Nelson", "Ver Proyecto", "2023"],
+            ["<a class='custom-link' href='historias/scufase3/spidermanfarfromhome.html'> Spider-Man Far From Home </a>", "SCU Fase 3 - Película", "Peter Parker (Spider-Man)", "Quentin Beck (Mysterio), Elementales", "2023"],
+            ["<a class='custom-link' href='historias/scufase3/spidermancollegeyears.html'> Spider-Man College Years </a>", "SCU Fase 3 - Serie", "Peter Parker (Spider-Man)", "Múltiples Villanos", "2014-2015"],
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -333,7 +363,7 @@ function showPhase1Table() {
         "paging": true,
         "lengthMenu": [5, 10, 30, 50, 100],
         "pageLength": 20,
-        "order": [[4, 'asc']],
+        "order": [[2, 'asc']],
         "displayStart": 0,
         "select": true,
         "columnDefs": [
