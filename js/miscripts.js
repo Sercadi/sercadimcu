@@ -336,7 +336,11 @@ function showPhase1Table() {
             ["<a class='custom-link' href='historias/scufase3/thorchildhood.html'> Thor Childhood Remembered </a>", "SCU Fase 3 - Especial", "Thor Odinson", "Laufey", "2023"],
             ///////////////////////////////////////////////////
             ["<a class='custom-link' href='historias/scufase4/sokovia.html'> Acuerdos de Sokovia </a>", "SCU Fase 4 - Especial", "Thaddeus Ross, Allegra D'Fountain", "Presidente EE.UU", "2023"],
-        
+            ["<a class='custom-link' href='historias/scufase4/blackwidow.html'> Black Widow </a>", "SCU Fase 4 - Película", "Nathasha Romanoff (Black Widow), Yelena Belova", "Taskmaster, Ivan Petrovich","2023"],
+            ["<a class='custom-link' href='historias/scufase4/shangchi.html'> Shang-Chi La Leyenda de los 10 Anillos </a>", "SCU Fase 4 - Película", "Xu Shang-Chi (Shaun)", "Xu Wenwu (El Mandarín), Razor Fist","2023"],
+            
+
+
 
 
 
